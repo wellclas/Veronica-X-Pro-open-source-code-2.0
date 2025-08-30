@@ -1,0 +1,20 @@
+pip install tensorflow tensorflow-quantum cirq qiskit transformers torch numpy
+pip install Python traceback
+pip install cirq
+pip install pyyaml
+pip install qiskit
+pip install Mathematica
+pip install tensorflow-quantum
+pip install Python
+pip install torch
+pip install optim
+pip install opflow
+pip install nn
+pip install tf
+pip install ow
+pip install Sage
+pip install numpy
+pip install API Blueprint
+pip install transformers
+pip install Talon
+pip install tensorflow 
