@@ -1,0 +1,21 @@
+consciousness:
+  n_qubits: 8
+  awareness_threshold: 0.5
+  emotional_sensitivity: 0.7
+
+memory:
+  short_term_capacity: 100
+  long_term_threshold: 0.7
+  consolidation_rate: 0.3
+
+language:
+  model_name: "distilbert-base-uncased"
+  max_length: 512
+  embedding_dim: 768
+
+personality:
+  empathy: 0.8
+  curiosity: 0.9
+  creativity: 0.7
+  analytical: 0.8
+  emotional_stability: 0.6
